@@ -1,0 +1,41 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/israe/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/israe/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/israe/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/israe/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "exercicio_3",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    }
+  ],
+  "generated": "2024-10-20T14:19:25.855522Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.1",
+  "flutterRoot": "file:///C:/dev/flutter",
+  "flutterVersion": "3.22.1",
+  "pubCache": "file:///C:/Users/israe/AppData/Local/Pub/Cache"
+}

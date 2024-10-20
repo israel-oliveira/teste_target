@@ -1,0 +1,8 @@
+name: exercicio_3
+description: Arquivo de dependencias par ao exercicio 3
+
+environment:
+  sdk: '^3.4.0' 
+  
+dependencies:
+  xml: ^6.1.0
